@@ -24,7 +24,11 @@
         -account 5
             public key:  0x474A850f26177F60280eB1d8E5a6aA7f03e20961
             private key: 3b3671e8360074b88ec12f25e4bb88afe10934c48e979eb1542ed8274e21f671
-    2: Input the amount of token to cliam and click the claim button 
+
+    2: Import test token with this token contract address : 0xDBC99496c826540419d08753695A885039FC6776
+       Then you can see the test token amounts in the metamask 
+
+    3: Input the amount of token to cliam and click the claim button 
         - if your current account of metamask is one of the above 5 accounts, then claim is possible, but not the other accouts can do
 
 
